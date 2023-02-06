@@ -1,0 +1,22 @@
+filter_name = "Wrath Of The Lich King"
+filter_description = "Items from the Wrath Of The Lich King expansion."
+filter_author = "Zottelchen"
+prefixes = [
+    "W",
+    "W-",
+    "2.",
+    "WOTLK",
+    "icon:630787",
+    "icon:341221",
+    "icon:3573823",
+    "icon:236690",
+    "icon:135771",
+    "icon:625998",
+]
+
+[replacers]
+ADDON_COLOR = 0x00BCBA
+TOC_VERSION = "100005"
+CURSE_ID = ""
+WAGO_ID = ""
+WOW_INTERFACE_ID = ""
