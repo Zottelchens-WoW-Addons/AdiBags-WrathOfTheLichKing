@@ -1,0 +1,259 @@
+category_name = "Tradegoods"
+category_color = 0x786F52
+category_description = { _ = "Trading tradegoods is good. Trade tradegoods for good goods." }
+mergeable = true
+merged_by_default = true
+
+[cloth]
+name = "Cloth"
+description = { _ = "Cloth used in Tailoring." }
+color = 0xFEB95F
+items = [33470, 42253, 41595, 41511, 41594, 38426, 41510, 41593]
+
+[elemental]
+name = "Elemental"
+description = { _ = "Elementals used in all professions." }
+color = 0xC2095A
+items = [
+    35622,
+    35623,
+    35624,
+    35625,
+    35627,
+    36860,
+    37700,
+    37701,
+    37702,
+    37703,
+    37704,
+    37705,
+]
+
+[enchanting]
+name = "Enchanting"
+description = { _ = "Enchanting materials for enchanting weapons & armor." }
+color = 0x540D6E
+items = [34054, 34052, 34055, 34057, 34056, 34053]
+
+[inscription]
+# since this job has been introduced with Wotlk this category also contains older materials. should i split them up? 🤔
+name = "Inscription"
+description = { _ = "Inscription materials for creating glyphs or other paper related goods." }
+color = 0xFFD23F
+items = [
+    37140,
+    37143,
+    37145,
+    37147,
+    37156,
+    37159,
+    37160,
+    39151,
+    39334,
+    39338,
+    39339,
+    39340,
+    39341,
+    39342,
+    39343,
+    39469,
+    39774,
+    43103,
+    43104,
+    43105,
+    43106,
+    43107,
+    43108,
+    43109,
+    43115,
+    43116,
+    43117,
+    43118,
+    43119,
+    43120,
+    43121,
+    43122,
+    43123,
+    43124,
+    43125,
+    43126,
+    43127,
+    44143,
+    44144,
+    44145,
+    44146,
+    44147,
+    44154,
+    44155,
+    44156,
+    44157,
+    44165,
+    44260,
+    44261,
+    44262,
+    44263,
+    44264,
+    44265,
+    44266,
+    44267,
+    44268,
+    44269,
+    44270,
+    44271,
+    44272,
+    44273,
+    44274,
+    44275,
+    44277,
+    44278,
+    44279,
+    44280,
+    44281,
+    44282,
+    44284,
+    44285,
+    44286,
+    44287,
+    44288,
+    44289,
+    44290,
+    44291,
+    44292,
+    44293,
+]
+
+[herbs]
+name = "Herbs"
+description = { _ = "Herbs used in Alchemy & Inscription." }
+color = 0x0EAD69
+items = [36905, 36901, 36903, 36904, 36907, 39970, 36908, 36906, 37921]
+
+[jewelcrafting]
+name = "Jewelcrafting"
+description = { _ = "Jewelcrafting materials for creating rings, necklaces, gems, etc." }
+color = 0x090446
+items = [
+    36783,
+    36784,
+    36917,
+    36918,
+    36919,
+    36920,
+    36921,
+    36922,
+    36923,
+    36924,
+    36925,
+    36926,
+    36927,
+    36928,
+    36929,
+    36930,
+    36931,
+    36932,
+    36933,
+    36934,
+    41266,
+    41334,
+    42225,
+    45054,
+    46849,
+]
+
+[leather]
+name = "Leather"
+description = { _ = "Leather used in Leatherworking." }
+color = 0x563635
+items = [44128, 33568, 38425, 38557, 38558, 38561, 33567]
+
+[meat_and_fish]
+name = "Meat & Fish"
+description = { _ = "Meat & Fish used in Cooking." }
+color = 0xF71735
+items = [
+    34736,
+    35794,
+    36782,
+    41800,
+    41801,
+    41802,
+    41803,
+    41805,
+    41806,
+    41807,
+    41808,
+    41809,
+    41810,
+    41812,
+    41813,
+    41814,
+    43009,
+    43010,
+    43011,
+    43012,
+    43013,
+    43501,
+    43571,
+    43572,
+    43646,
+    43647,
+    43652,
+    44834,
+]
+
+[metal_and_stone] # Rock and stone, brother!
+name = "Metal & Stone"
+description = { _ = "Metal & Stone used in Blacksmithing." }
+color = 0x6E9075
+items = [36910, 37663, 36916, 36913, 41163, 36912, 36909]
+
+[parts]
+name = "Parts"
+description = { _ = "Parts used in Engineering." }
+color = 0x5B6057
+items = [
+    39681,
+    39682,
+    39683,
+    39684,
+    39685,
+    39686,
+    39690,
+    40533,
+    44499,
+    44500,
+    44501,
+]
+
+[other]
+name = "Other Tradegoods"
+description = { _ = "Other items used in various professions." }
+color = 0x81F0E5
+items = [
+    36781,
+    37168,
+    38682,
+    39354,
+    39501,
+    40195,
+    40199,
+    40411,
+    43007,
+    43102,
+    44142,
+    44161,
+    44163,
+    44316,
+    44317,
+    44318,
+    44475,
+    44700,
+    44835,
+    44853,
+    44958,
+    45087,
+    45909,
+    46888,
+    47556,
+    49908,
+]
