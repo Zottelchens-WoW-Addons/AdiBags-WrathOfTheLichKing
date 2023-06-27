@@ -17,7 +17,7 @@
 - Item Enhancements
 - Flasks, Elixirs, Potions
 
-If anything is missing, misplaced, or you want a new category, then please write a comment or [open an issue](https://github.com/Zottelchens-WoW-Addons/AdiBags-WrathOfTheLichking/issues).
+If anything is missing, misplaced, or you want a new category, then please write a comment or [open an issue](https://github.com/Zottelchens-WoW-Addons/AdiBags-WrathOfTheLichking/issues). There are literally thousands of item IDs in this addon, so it's possible that I missed or misplaced something. Report these items & I will fix them ASAP. Thanks! :)
 
 **A special thanks to the following people for their contributions in translating this addon:**
 
