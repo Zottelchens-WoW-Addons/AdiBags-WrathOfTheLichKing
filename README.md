@@ -16,6 +16,7 @@
 - Consumables
 - Item Enhancements
 - Flasks, Elixirs, Potions
+- Recipes
 
 ## Bugs?
 
